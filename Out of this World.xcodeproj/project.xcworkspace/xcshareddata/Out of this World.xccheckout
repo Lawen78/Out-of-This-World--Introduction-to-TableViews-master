@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A44A57D6-DDF6-43DB-A524-443194D20B8D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Out of this World</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DC9C7F99B398D5C65519950D85F4CC0152AF5191</key>
+		<string>https://github.com/Lawen78/Out-of-This-World--Introduction-to-TableViews-master.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Out of this World.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DC9C7F99B398D5C65519950D85F4CC0152AF5191</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Lawen78/Out-of-This-World--Introduction-to-TableViews-master.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DC9C7F99B398D5C65519950D85F4CC0152AF5191</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DC9C7F99B398D5C65519950D85F4CC0152AF5191</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Out-of-This-World--Introduction-to-TableViews-master</string>
+		</dict>
+	</array>
+</dict>
+</plist>
